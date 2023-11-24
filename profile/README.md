@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://www.juridictech.ai" rel="noreferrer" title="juridictech.ai">
-    <img alt="juridictech.ai" src="profile/logo.png">
+    <img alt="juridictech.ai" src="profile/logo.jpeg">
   </a>
 </h1>
 
